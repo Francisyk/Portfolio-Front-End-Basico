@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header></header>
+    <main>
+        <h1> Interfaces Modernas, <span> Experiências Reais</span></h1>
+       <section> <p>Sou desenvolvedor Front-End com foco em criar <strong>interfaces modernas, acessíveis e responsivas</strong>. Utilizo ferramentas como <strong>HTML, CSS e Figma</strong> para transformar ideias em experiências digitais intuitivas e bem estruturadas.Acredito que cada linha de código é uma oportunidade de <strong>melhorar a experiência</strong> do usuário e dar vida a ideias através da tecnologia. Comigo você encontrará projetos que combinam <strong>design funcional, performance e atenção aos detalhes</strong> — tudo pensado para entregar <strong>soluções digitais que fazem a diferença.</strong></p></section>
+       <aside> <br> 
+        <div><img src="Eu.jpg" alt="Foto do profissional Front-End"> </aside>
+        </div>
+        <br>
+        <br>
+        <a href="https://github.com/Francisyk">Github</a>
+        <a href="https://www.linkedin.com/in/francis-de-moura-pereira-277147256/">Linkedin</a>
+    </main>
+    <footer></footer>
+</body>
+</html>
