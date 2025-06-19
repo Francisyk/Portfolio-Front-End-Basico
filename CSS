@@ -1,0 +1,38 @@
+body{
+    background-color:#C2E1C2;
+    color: #80AB82
+}
+a {
+    background-color: #778472;
+    color: #225828;
+    cursor: pointer;
+  border-radius: 12px;
+  border: 40px;
+  background: #778472;
+  padding: 7px;
+  width: 200px;
+  height: 150px;
+}
+
+h1 {
+    color: #5BAE5B;
+
+}
+   p {
+
+       color: #726953;
+
+   }
+   span {
+    color: #225828;
+    border: 1px solid #225828;
+            padding: 10px;
+   }
+   strong {
+    color: black;
+   }
+   div {
+  width: 281px;
+  box-shadow: 0 4px 8px 0 #225828, 0 6px 20px 0 #225828;
+  padding: 3px;
+}
